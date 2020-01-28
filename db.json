@@ -1,22 +1,24 @@
-[
-  {
-    "firstName": "Silvester",
-    "lastName": "Stallone",
-    "skills": ["JS", "HTML"],
-    "twitter": "@stallone",
-    "profilePicture": "https://randomuser.me/api/portraits/lego/3.jpg"
-  },
-  {
-    "firstName": "Jean-Claude",
-    "lastName": "Van Damme",
-    "skills": ["HTML", "CSS"],
-    "twitter": "@vandamme",
-    "profilePicture": "https://randomuser.me/api/portraits/lego/1.jpg"
-  },
-  {
-    "firstName": "Arnold",
-    "lastName": "Schwarzenegger",
-    "skills": ["JS"],
-    "profilePicture": "https://randomuser.me/api/portraits/lego/5.jpg"
-  }
-]
+{
+  "programmers": [
+    {
+      "firstName": "Silvester",
+      "lastName": "Stallone",
+      "skills": ["JS", "HTML"],
+      "twitter": "@stallone",
+      "profilePicture": "https://randomuser.me/api/portraits/lego/3.jpg"
+    },
+    {
+      "firstName": "Jean-Claude",
+      "lastName": "Van Damme",
+      "skills": ["HTML", "CSS"],
+      "twitter": "@vandamme",
+      "profilePicture": "https://randomuser.me/api/portraits/lego/1.jpg"
+    },
+    {
+      "firstName": "Arnold",
+      "lastName": "Schwarzenegger",
+      "skills": ["JS"],
+      "profilePicture": "https://randomuser.me/api/portraits/lego/5.jpg"
+    }
+  ]
+}
